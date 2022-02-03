@@ -3,9 +3,9 @@ export const Footer = () => {
         <footer id="footer" className="footer">
             <div className="content has-text-centered">
                 <p>
-                    Powered using <a href="https://bulma.io">Bulma</a> and <a href="https://reactjs.org">React</a>.
+                    Blockchain Diamonds!
                     <br/>
-                    Copyright © 2021 Jan Leigh Muñoz. All Rights Reserved.
+                    Copyright © 2022 DiamondEvolution. All Rights Reserved.
                 </p>
             </div>
         </footer>
