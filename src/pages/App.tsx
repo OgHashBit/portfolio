@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar";
 import Introduction from "../components/sections/Introduction";
-import Projects from "../components/sections/Projects";
+import About1 from "../components/sections/About";
 import About from "../components/sections/AboutMe";
 import Footer from "../components/sections/Footer";
 
